@@ -17,6 +17,9 @@
 | 7  | Server & Admin (Kantor Pusat)                 |                        6 | /29              | 6                       |
 | 8  | Link Router Pusat–Cabang (P2P)                |                        2 | /30              | 2                       |
 
+Menghitung prefix 2^n pada host aktif
+hitung usable host n-2
+broadcast network + total alamat (510+1), misal 511 adalah 255+256 jadi base 10.158.1.255
 # VLSM
 <img width="885" height="695" alt="image" src="https://github.com/user-attachments/assets/728c6896-4f38-4a16-b7d4-0dcf9592b6c3" />
 <img width="1670" height="608" alt="image" src="https://github.com/user-attachments/assets/152a79cd-b23a-495a-be7d-160d691009a6" />
